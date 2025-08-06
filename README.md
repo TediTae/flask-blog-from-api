@@ -56,7 +56,7 @@ flask-blog-from-api/
 
 ## 🌐 API Source
 - Blog data is fetched from this public JSON endpoint:
-- 📎 https://api.npoint.io/7b983f7605c621e43e8b
+- 📎 https://api.npoint.io/c790b4d5cab58020d391
 - You can replace it with your own API or local JSON file if needed.
 
 ---
