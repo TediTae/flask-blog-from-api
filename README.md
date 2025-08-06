@@ -29,8 +29,8 @@ This project fetches blog post data from a public JSON API and renders them on d
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/TediTae/simple-flask-blog.git
-cd simple-flask-blog
+git clone https://github.com/TediTae/flask-blog-from-api.git
+cd flask-blog-from-api
 ```
 2. (Optional but recommended) Create a virtual environment:
   - python -m venv venv
