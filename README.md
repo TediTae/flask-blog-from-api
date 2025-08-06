@@ -48,8 +48,8 @@ flask-blog-from-api/
 - ├── static/
 - │   └── style.css
 - └── templates/
--    ├── index.html
--    └── post.html
+- │  ├── index.html
+- │  └── post.html
 
 ---
 
