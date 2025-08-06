@@ -33,8 +33,8 @@ git clone https://github.com/TediTae/flask-blog-from-api.git
 cd flask-blog-from-api
 ```
 2. (Optional but recommended) Create a virtual environment:
-  - python -m venv venv
-  - source venv/bin/activate  # On Windows: venv\Scripts\activate
+    - python -m venv venv
+    - source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3. Install the dependencies:
    - requests
