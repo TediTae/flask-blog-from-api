@@ -1,4 +1,4 @@
-# Simple Flask Blog
+# Flask Blog From API
 
 A minimal blog web application built with Flask and Requests.  
 This project fetches blog post data from a public JSON API and renders them on dynamic HTML pages using Jinja2 templating.
