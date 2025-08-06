@@ -45,8 +45,9 @@ cd flask-blog-from-api
 ## 📁 Project Structure
 flask-blog-from-api/
 - ├── app.py
-- ├── static/
-- │   └── style.css
+- ├── static
+- │   └── css
+- │   │   └── style.css
 - └── templates/
 - │  ├── index.html
 - │  └── post.html
